@@ -121,17 +121,6 @@ Soy **Alejo Fookes**, estudiante de **Licenciatura en Sistemas** actualmente cur
 
 </div>
 
-## 💡 Logros en Automatización
-
-<div align="center">
-
-🎯 **15+** Procesos Empresariales Automatizados  
-⏰ **100+** Horas Ahorradas Semanalmente  
-🗺️ **500+** Rutas de Entrega Optimizadas  
-📊 **99.5%** Tiempo de Actividad del Sistema
-
-</div>
-
 ## 🎨 Matriz de Habilidades
 
 ```python

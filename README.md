@@ -1,11 +1,11 @@
 # 👋 Hi, I'm [Your Name Here]
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** and **RPA Specialist** focused on automating business processes and building intelligent systems. I love creating solutions that solve real-world problems and make businesses more efficient.
+Mi nombre es **Alejo Fookes** y soy estudiante de **Licenciatura en Sistemas** Actualmente en 2do año. Estoy enfocado en el desarrollo de los aprendizajes de nuevas tecnologias que beneficien mi persona.
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=RPA+Framework+Developer;E-Commerce+Automation+Expert;Full-Stack+Web+Developer;AI%2FML+Enthusiast;Process+Optimization+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=RPA+Framework+Developer;Full-Stack+Web+Developer;AI%2FML+Enthusiast;)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,46 +40,11 @@ I'm a passionate **Full-Stack Developer** and **RPA Specialist** focused on auto
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏗️ Featured Project: E-Commerce RPA Framework
-
-<div align="center">
-  
-### 🎯 **Comprehensive Business Process Automation**
-  
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🤖 **Intelligent Bot Ecosystem**
-- **🔔 Stock Alert Bot**: Real-time inventory monitoring
-- **🗺️ Route Optimization**: AI-powered delivery planning  
-- **💳 Payment Processing**: Automated transaction handling
-- **📦 Warehouse Management**: Smart storage optimization
-- **🧠 AI Analytics**: ML-powered business insights
-- **📊 System Monitoring**: Real-time health tracking
-
-</td>
-<td width="50%">
-
-#### 🌐 **Web Portal Features**
-- **⚡ Real-time Dashboard**: Live bot execution monitoring
-- **🎨 Modern UI**: Bootstrap-powered responsive design
-- **📁 File Management**: Automated report generation
-- **🔗 Socket.IO Integration**: Live updates and notifications
-- **📋 Interactive Logs**: Comprehensive system tracking
-- **🏗️ Architecture Docs**: UML diagrams and documentation
-
-</td>
-</tr>
-</table>
-
 ### 🎯 **Core Capabilities**
 
 ```
 🗃️  Database Integration     ████████████████████ PostgreSQL + NeonCloud
-🗺️  Route Optimization      ███████████████████  OpenRouteService API
+🗺️  Route Optimization       ███████████████████  OpenRouteService API
 📊  Report Generation        ██████████████████   Excel + PDF Automation
 🔧  Framework Architecture   ████████████████████ Modular Service Design
 ⚡  Real-time Communication  ███████████████████  WebSocket Integration
@@ -135,10 +100,10 @@ I'm a passionate **Full-Stack Developer** and **RPA Specialist** focused on auto
 ```python
 def get_skill_levels():
     return {
-        "RPA Development": "████████████████████ 100%",
-        "Web Development": "███████████████████  95%", 
-        "Database Design": "██████████████████   90%",
-        "AI/ML Integration": "████████████████     80%",
+        "RPA Development"    : "████████████████████ 100%",
+        "Web Development"    : "███████████████████  95%",
+        "Database Design"    : "██████████████████   90%",
+        "AI/ML Integration"  : "████████████████     80%",
         "System Architecture": "██████████████████   90%",
         "DevOps & Automation": "███████████████      75%"
     }
